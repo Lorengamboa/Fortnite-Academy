@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    }
+]

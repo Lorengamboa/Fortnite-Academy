@@ -1,0 +1,178 @@
+[
+    {
+        "outputFile": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 188,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/15.0.1/res/values-b+sr+Latn/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 254,
+                        "endColumn": 188,
+                        "endOffset": 442
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 73,
+                    "endOffset": 363
+                },
+                "from": {
+                    "file": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/15.0.1/res/values-b+sr+Latn/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 204,
+                        "endColumn": 69,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 368,
+                    "endColumn": 123,
+                    "endOffset": 487
+                },
+                "from": {
+                    "file": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/15.0.1/res/values-b+sr+Latn/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 274,
+                        "endColumn": 119,
+                        "endOffset": 393
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 492,
+                    "endColumn": 69,
+                    "endOffset": 557
+                },
+                "from": {
+                    "file": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/15.0.1/res/values-b+sr+Latn/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 394,
+                        "endColumn": 65,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 562,
+                    "endColumn": 66,
+                    "endOffset": 624
+                },
+                "from": {
+                    "file": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/15.0.1/res/values-b+sr+Latn/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 460,
+                        "endColumn": 62,
+                        "endOffset": 522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 629,
+                    "endColumn": 92,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/15.0.1/res/values-b+sr+Latn/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 523,
+                        "endColumn": 88,
+                        "endOffset": 611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endColumn": 121,
+                    "endOffset": 839
+                },
+                "from": {
+                    "file": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/15.0.1/res/values-b+sr+Latn/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 612,
+                        "endColumn": 117,
+                        "endOffset": 729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 844,
+                    "endColumn": 73,
+                    "endOffset": 913
+                },
+                "from": {
+                    "file": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/15.0.1/res/values-b+sr+Latn/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 730,
+                        "endColumn": 69,
+                        "endOffset": 799
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 918,
+                    "endColumn": 100,
+                    "endOffset": 1014
+                },
+                "from": {
+                    "file": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.1.0/res/values-b+sr+Latn/values-b+sr+Latn.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]

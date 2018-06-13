@@ -1,0 +1,35 @@
+{
+  "name": "FortniteAcademy",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "jest",
+    "build-android": "cd android && ./gradlew assembleRelease"
+  },
+  "dependencies": {
+    "lodash": "^4.17.10",
+    "react": "16.3.1",
+    "react-native": "0.55.4",
+    "react-native-admob": "^2.0.0-beta.5",
+    "react-native-elements": "^0.19.1",
+    "react-native-image-progress": "^1.1.0",
+    "react-native-slideshow": "^1.0.1",
+    "react-native-snap-carousel": "^3.7.0",
+    "react-native-swiper": "^1.5.13",
+    "react-native-vector-icons": "^4.6.0",
+    "react-navigation": "^2.0.1",
+    "react-navigation-material-bottom-tabs": "^0.3.0"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.4",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.4",
+    "react-test-renderer": "16.3.1"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

@@ -1,0 +1,4 @@
+#Wed Jun 13 11:52:47 CEST 2018
+base.0=/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex

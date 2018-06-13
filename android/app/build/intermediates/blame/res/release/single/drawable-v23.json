@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/lorenzogamboagarcia/Personal Projects/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/lorenzogamboagarcia/ForniteDancer/ForniteDancer/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
+        "merged": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/res/merged/release/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/lorenzogamboagarcia/Github/Fortnite-Academy/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/res/drawable-v23/abc_control_background_material.xml"
+    }
+]

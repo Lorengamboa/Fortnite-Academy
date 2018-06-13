@@ -1,0 +1,7 @@
+int string s1 0x1
+int string s2 0x1
+int string s3 0x1
+int string s4 0x1
+int string s5 0x1
+int string s6 0x1
+int string s7 0x1
